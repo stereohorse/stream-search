@@ -5,4 +5,4 @@ Check [business requirements](https://github.com/stereohorse/stream-search/wiki/
 
 ## Design
 
-[Whiteboard]([url](https://link.excalidraw.com/readonly/SKFVgadQWRZERqHM7Vm8)https://link.excalidraw.com/readonly/SKFVgadQWRZERqHM7Vm8)
+[Whiteboard](https://link.excalidraw.com/readonly/SKFVgadQWRZERqHM7Vm8)
