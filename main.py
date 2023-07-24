@@ -27,9 +27,9 @@ if __name__ == '__main__':
 
     token = os.environ['TG_BOT_TOKEN']
     application = ApplicationBuilder().token(token).build()
+    start_handler = CommandHandler('start', start)
     echo_handler = MessageHandler(filters.TEXT & (~filters.COMMAND), echo)
 
-    start_handler = CommandHandler('start', start)
     application.add_handler(start_handler)
     application.add_handler(echo_handler)
     # Other handlers
